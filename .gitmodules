@@ -1,0 +1,3 @@
+[submodule "libraries/NRFLite"]
+	path = libraries/NRFLite
+	url = https://github.com/dparson55/NRFLite.git
